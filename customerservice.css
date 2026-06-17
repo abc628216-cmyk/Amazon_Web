@@ -1,0 +1,26 @@
+body{
+    background:#58e6dc;
+}
+
+.service-header{
+    background:#000000;
+    padding:80px 0;
+}
+
+.service-header h1{
+    font-size:50px;
+    font-weight:bold;
+}
+
+.card{
+    transition:0.3s;
+    border:none;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+
+footer{
+    margin-top:40px;
+}
